@@ -40,14 +40,14 @@ let pathYukiJadiBot = path.join(`./${jadi}/`, id)
 if (!fs.existsSync(pathYukiJadiBot)){
 fs.mkdirSync(pathYukiJadiBot, { recursive: true })
 }
-MIKU'SJBOptions.pathMIKU'SJadiBot = pathMIKU'SJadiBot
-MIKU'SJBOptions.m = m
-MIKU'SJBOptions.conn = conn
-MIKU'SJBOptions.args = args
-MIKU'SJBOptions.usedPrefix = usedPrefix
-MIKU'SJBOptions.command = command
-MIKU'SJBOptions.fromCommand = true
-MIKU'SJadiBot(yukiJBOptions)
+MIKUSJBOptions.pathMIKU'SJadiBot = pathMIKU'SJadiBot
+MIKUSJBOptions.m = m
+MIKUSJBOptions.conn = conn
+MIKUSJBOptions.args = args
+MIKUSJBOptions.usedPrefix = usedPrefix
+MIKUSJBOptions.command = command
+MIKUSJBOptions.fromCommand = true
+MIKUSJadiBot(yukiJBOptions)
 global.db.data.users[m.sender].Subs = new Date * 1
 }
 handler.help = ['qr', 'code']
