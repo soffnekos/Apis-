@@ -56,7 +56,7 @@ handler.command = ['qr', 'code']
 export default handler 
 
 export async function yukiJadiBot(options) {
-let { pathYukiJadiBot, m, conn, args, usedPrefix, command } = options
+let { pathMikusJadiBot, m, conn, args, usedPrefix, command } = options
 if (command === 'code') {
 command = 'qr'
 args.unshift('code')
