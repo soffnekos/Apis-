@@ -38,9 +38,9 @@ let who = mentionedJid && mentionedJid[0] ? mentionedJid[0] : m.fromMe ? conn.us
 let id = `${who.split`@`[0]}`
 let pathYukiJadiBot = path.join(`./${jadi}/`, id)
 if (!fs.existsSync(pathYukiJadiBot)){
-fs.mkdirSync(pathYukiJadiBot, { recursive: true })
+fs.mkdirSync(pathMikusJadiBot, { recursive: true })
 }
-MIKUSJBOptions.pathMIKU'SJadiBot = pathMIKU'SJadiBot
+MIKUSJBOptions.pathMIKUSJadiBot = pathMIKU'SJadiBot
 MIKUSJBOptions.m = m
 MIKUSJBOptions.conn = conn
 MIKUSJBOptions.args = args
