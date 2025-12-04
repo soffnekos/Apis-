@@ -40,7 +40,7 @@ let pathYukiJadiBot = path.join(`./${jadi}/`, id)
 if (!fs.existsSync(pathYukiJadiBot)){
 fs.mkdirSync(pathMikusJadiBot, { recursive: true })
 }
-MIKUSJBOptions.pathMIKUSJadiBot = pathMIKU'SJadiBot
+MIKUSJBOptions.pathMIKUSJadiBot = pathMIKUSJadiBot
 MIKUSJBOptions.m = m
 MIKUSJBOptions.conn = conn
 MIKUSJBOptions.args = args
