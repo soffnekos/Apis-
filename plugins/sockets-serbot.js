@@ -47,7 +47,7 @@ MIKUSJBOptions.args = args
 MIKUSJBOptions.usedPrefix = usedPrefix
 MIKUSJBOptions.command = command
 MIKUSJBOptions.fromCommand = true
-MIKUSJadiBot(yukiJBOptions)
+MIKUSJadiBot(MIKUSJBOptions)
 global.db.data.users[m.sender].Subs = new Date * 1
 }
 handler.help = ['qr', 'code']
