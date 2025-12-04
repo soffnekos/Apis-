@@ -22,8 +22,9 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 var canal = 'https://whatsapp.com/channel/0029Vb7fZs7EquiMC25pEZ1l'  
 var comunidad = 'https://chat.whatsapp.com/BqtIiPBbaHEBGXr3ShFSAu?mode=wwt'
 var git = 'https://github.com/The-King-Destro'
-var github = 'https://github.com/The-King-kjyotaka/miku's' 
+var github = "https://github.com/The-King-kjyotaka/miku's"
 var correo = 'soffnekos@gmail.com'
+
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 global.nombre = m.pushName || 'Anónimo'
