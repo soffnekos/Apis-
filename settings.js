@@ -11,8 +11,8 @@ global.botNumber = "" //Ejemplo: 573218138672
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.owner = ["926427586"]
-global.suittag = ["926427586"] 
+global.owner = ["51926427586"]
+global.suittag = ["51926427586"] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -31,7 +31,7 @@ global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|KJYOTAKA"
 global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|KJYOTAKA"
 global.etiqueta = "ⁱᵃᵐ|KJYOTAKA"
 global.currency = "PERROS"
-global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
+global.banner = "https://files.catbox.moe/1h4ruu.jpg"
 global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
@@ -43,7 +43,7 @@ global.channel = "https://whatsapp.com/channel/0029Vb7fZs7EquiMC25pEZ1l"
 global.github = "https://github.com/The-King-Destroy/YukiBot-MD"
 global.gmail = "soffnekos@gmail.com"
 global.ch = {
-ch1: "120363401404146384@newsletter"
+ch1: "120363423851615168@newsletter"
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
