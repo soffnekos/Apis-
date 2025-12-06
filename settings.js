@@ -31,8 +31,8 @@ global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|KJYOTAKA"
 global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|KJYOTAKA"
 global.etiqueta = "ⁱᵃᵐ|KJYOTAKA"
 global.currency = "PERROS"
-global.banner = "https://files.catbox.moe/1h4ruu.jpg"
-global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
+global.banner = "https://files.cloudkuimages.guru/images/ed7991fcc396.jpg"
+global.icono = "https://files.cloudkuimages.guru/images/ed7991fcc396.jpg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
